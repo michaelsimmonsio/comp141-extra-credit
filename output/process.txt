@@ -1,0 +1,5 @@
+  PID TTY           TIME CMD
+30141 ttys000    0:00.08 -zsh
+30389 ttys000    5:08.21 node idler.js
+44307 ttys001    0:00.54 -zsh
+44935 ttys001    0:00.01 /bin/bash ./main.sh
